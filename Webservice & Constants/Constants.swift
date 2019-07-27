@@ -18,7 +18,7 @@ let ISDebug = true
 let APP_NAME = "Prepwyzr"
 
 //Live URl..............................................................//..........
-//let URL_BASE = "https://aaappserver.azurewebsites.net/"
+//let URL_BASE = ""
 
 
 
@@ -42,7 +42,7 @@ class Constants {
     static let kNotiPrepareVC_RetakeTest = Notification.Name("QuestionListVC_RetakeTest")
     
     //MARK:- Webservices
-    static let URL_BASE = "https://prepwyzr.com/android_api/" //Base URL
+    static let URL_BASE = "" //Base URL
     
     static let apiSecurityKey = "!894$4v!B7b8REj"
 
